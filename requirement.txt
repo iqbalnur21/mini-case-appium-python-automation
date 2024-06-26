@@ -1,0 +1,4 @@
+selenium
+webdriver_manager
+uiautomator2
+Appium-Python-Client
